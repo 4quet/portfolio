@@ -1,9 +1,8 @@
 +++
 title = "Sirocco MOBA"
-date = 2025-06-23
+date = 2025-06-10
 draft = false
-description = "Sirocco MOBA project"
-tags = ["Unity", "Multiplayer", "UI", "Tools"]
+tags = ["Unity", "Multiplayer", "UI", "Tools", "Online Platform Services"]
 +++
 
 {{< lead >}}

@@ -22,8 +22,7 @@ title = "Louis Fourquet Portfolio"
   headline = "Game Developer"
   bio = "TODO: Bio text here"
   links = [
-    { email = "mailto:hello@your_domain.com" },
-    { github = "https://github.com/username" },
-    { itch-io = "https://username.itch.io" },
-    { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/louisfourquet" },
+    { github = "https://github.com/4quet" },
+    { itch-io = "https://4quet.itch.io" },
   ]
