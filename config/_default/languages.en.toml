@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Louis Fourquet Portfolio"
+
+[params]
+  displayName = "Display Name"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  secondaryLogo = "img/secondary-logo.png"
+  description = "Language Desc"
+  copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Louis Fourquet"
+  email = "louis.fourquet@gmail.com"
+  image = "images/profile.jpg"
+  imageQuality = 96
+  headline = "Game Developer"
+  bio = "TODO: Bio text here"
+  links = [
+    { email = "mailto:hello@your_domain.com" },
+    { github = "https://github.com/username" },
+    { itch-io = "https://username.itch.io" },
+    { linkedin = "https://linkedin.com/in/username" },
+  ]
