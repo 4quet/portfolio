@@ -39,10 +39,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = true
-  showCopyright = true
+  showMenu = false
+  showCopyright = false
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
