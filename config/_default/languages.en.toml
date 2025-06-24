@@ -14,7 +14,6 @@ title = "Louis Fourquet"
 
 [params.author]
   name = "Louis Fourquet"
-  email = "louis.fourquet@gmail.com"
   image = "images/profile.jpg"
   imageQuality = 96
   headline = "Game Programmer | Unity | Unreal Engine | C# | C++"
